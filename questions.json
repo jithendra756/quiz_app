@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["Atom", "Molecule", "Cell", "Tissue"],
+    "answer": 2
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Ribosome", "Mitochondria", "Nucleus", "Golgi Apparatus"],
+    "answer": 1
+  },
+  {
+    "question": "Which pigment gives plants their green color?",
+    "options": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+    "answer": 0
+  },
+  {
+    "question": "What type of blood cells help in clotting?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is essential for photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": 2
+  },
+  {
+    "question": "What part of the brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+    "answer": 1
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Stem", "Root", "Leaf", "Flower"],
+    "answer": 2
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Liver", "Heart", "Skin", "Lungs"],
+    "answer": 2
+  },
+  {
+    "question": "Which vitamin is produced when sunlight hits the skin?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": 3
+  },
+  {
+    "question": "Which part of the human cell contains genetic material?",
+    "options": ["Ribosome", "Nucleus", "Cytoplasm", "Mitochondria"],
+    "answer": 1
+  },
+  {
+    "question": "What is the process of converting sugar into energy called?",
+    "options": ["Photosynthesis", "Fermentation", "Respiration", "Transpiration"],
+    "answer": 2
+  },
+  {
+    "question": "Which organ purifies blood in the human body?",
+    "options": ["Heart", "Liver", "Kidney", "Lungs"],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Stapes", "Femur", "Ulna", "Humerus"],
+    "answer": 0
+  },
+  {
+    "question": "Which kingdom includes multicellular, autotrophic organisms?",
+    "options": ["Animalia", "Fungi", "Plantae", "Protista"],
+    "answer": 2
+  },
+  {
+    "question": "Which process involves water movement through a semipermeable membrane?",
+    "options": ["Diffusion", "Osmosis", "Transpiration", "Evaporation"],
+    "answer": 1
+  },
+  {
+    "question": "What is the scientific name of humans?",
+    "options": ["Homo sapiens", "Homo erectus", "Homo habilis", "Pan troglodytes"],
+    "answer": 0
+  },
+  {
+    "question": "Which organ produces insulin?",
+    "options": ["Liver", "Kidney", "Pancreas", "Gallbladder"],
+    "answer": 2
+  },
+  {
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A", "B", "AB", "O negative"],
+    "answer": 3
+  },
+  {
+    "question": "Which plant tissue is responsible for transporting water?",
+    "options": ["Phloem", "Xylem", "Cambium", "Pith"],
+    "answer": 1
+  },
+  {
+    "question": "What is the function of red blood cells?",
+    "options": ["Clot blood", "Fight infection", "Transport oxygen", "Digest food"],
+    "answer": 2
+  },
+  {
+    "question": "Which part of the flower develops into fruit?",
+    "options": ["Petal", "Ovule", "Ovary", "Stamen"],
+    "answer": 2
+  },
+  {
+    "question": "Which disease is caused by deficiency of vitamin C?",
+    "options": ["Rickets", "Scurvy", "Night blindness", "Anemia"],
+    "answer": 1
+  },
+  {
+    "question": "Which enzyme breaks down starch into sugar?",
+    "options": ["Lipase", "Amylase", "Pepsin", "Trypsin"],
+    "answer": 1
+  },
+  {
+    "question": "Which part of the eye is responsible for focusing light?",
+    "options": ["Cornea", "Retina", "Lens", "Iris"],
+    "answer": 2
+  },
+  {
+    "question": "Which process releases energy without oxygen?",
+    "options": ["Aerobic respiration", "Fermentation", "Photosynthesis", "Osmosis"],
+    "answer": 1
+  }
+]
